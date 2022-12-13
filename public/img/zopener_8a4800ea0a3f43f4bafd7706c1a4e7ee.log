@@ -1,0 +1,56 @@
+[8924:4188:2022-12-5 13:53:33.396] Main Start
+[8924:4188:2022-12-5 13:53:33.396] Command line:"C:\Users\koT\Desktop\eCommerce-App-with-React-Strapi-Stripe-Shopping-App-Tutorial-for-Beginners.git\client\public\img\Zoom_cm_f5t4ivueZ9vvrZo4_mTAxU8j0rZNXE8AvZ21iMP6WPv7b9i8O1lSNG@2tZACeq3+IlxZFZr_kc59e9e7affa83b4d_.exe"  Instance:0xEA0000 Show State:1
+[8924:4188:2022-12-5 13:53:33.460] C:\
+[8924:7480:2022-12-5 13:53:33.460] [process_requst] start, url:https://ibscorp.zoom.us/conf/launch
+[8924:7480:2022-12-5 13:53:34.477] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[8924:7480:2022-12-5 13:53:34.477] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[8924:7480:2022-12-5 13:53:34.477] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[8924:7480:2022-12-5 13:53:34.477] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 1677 , Error No: 0 , Status code: 200
+[8924:7480:2022-12-5 13:53:34.477] [log_response_content] header:
+[8924:7480:2022-12-5 13:53:34.477] HTTP/1.1 200 OK
+Date: Mon, 05 Dec 2022 10:53:33 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=aw1;rid=WEB_eb9ea284938b1118725da79fd0355cba
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+x-zm-zoneid: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=C98F8D33AAAF4B3704F061AFE22666FD; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=aw1_c_p_lmecE6QrOR-JdfYnu-vw; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ssid=aw1_c_DlpcM8ZqSS6Sim8WlLKyjA; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=w-vSZds0SaiisE3s4SPEuw.1670237613927.8a4621f11af0266986020314a97b12ab; Domain=.zoom.us; Expires=Mon, 05-Dec-2022 12:53:33 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=352; Domain=.zoom.us; Expires=Mon, 05-Dec-2022 12:53:33 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_mtk_guid=ca0f8980448141caa7fb62593c54f9d4; Domain=.zoom.us; Expires=Wed, 04-Dec-2024 10:53:33 GMT; Path=/; Secure
+Set-Cookie: __cf_bm=arNI9st1QbmOjpMpwVoxg5_TdBgeCSgxs7qy2Djs3S8-1670237613-0-AfJvHfBVyGBEbmIJxXAM2z+vMhIl7B4o831+jyyW0pAep1+XXnOn0IAeBBLPJg1lqldqZw+5WSy9g+jGxM0MtJY=; path=/; expires=Mon, 05-Dec-22 11:23:33 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xmh3CGvEvgl7OJwSMlissStC8aw5JZKJ3DkSE3OqTj44Dd0E0Vhm9GD1mMSuVKLMDuMSX7z84kSb3i0ggCm6Rb%2FrPbgNCwYFMgEmX0ni9K32a%2BVIVmDB5tQgjTVFusNdXg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 774c3d1bffab9d8a-DME
+
+
+[8924:7480:2022-12-5 13:53:34.477] [process_requst] End for url:https://ibscorp.zoom.us/conf/launch, return code:200, Error:0, Response content size:1677
+[8924:4188:2022-12-5 13:53:34.521] [imp_has_zoom_under_path] found zoom binaries under: 
+[8924:4188:2022-12-5 13:53:34.521] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.521] [client_has_installed_app] found path:
+[8924:4188:2022-12-5 13:53:34.521] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.521] [imp_has_zoom_under_path] found zoom binaries under: 
+[8924:4188:2022-12-5 13:53:34.521] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.521] [client_has_installed_app] found path:
+[8924:4188:2022-12-5 13:53:34.521] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.521] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.567] client_launch_app: 
+[8924:4188:2022-12-5 13:53:34.567] C:\Users\koT\AppData\Roaming\Zoom\bin\Zoom.exe
+[8924:4188:2022-12-5 13:53:34.567] "--url=zoommtg://win.launch?h.domain=ibscorp.zoom.us&h.path=join&confid=dXNzPVduWGxHWG5ZaFdDRmN2eHlFNnZNUEZkbmt0ZnlZdTA1Y0F0ZDBKVU8zMjhYNVBOS1g3WkxKaHExZnpYX0VvdS01amVSYWlSd1BBSjFaaEN5VTlLQm5nTFBVa3RtLl9RQjVqVzQwTlJnRDQtYU0mdGlkPTE3MjA1ZjlmYWY0NDQyN2JiZGVjM2I4ZDM2NTU4NjUz&mcv=0.92.11227.0929&stype=0&zc=0&browser=chrome&action=join&confno=97249800347&pwd=a2JuVCtGSEVmcGVFTjEvY1N6aUtDZz09"
+[8924:4188:2022-12-5 13:53:34.659] [client_launch_app] Zoom app process created, result:42
+[8924:4188:2022-12-5 13:53:34.752] Main End
